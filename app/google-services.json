@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619370613652",
+    "project_id": "grigoriev-inostranec",
+    "storage_bucket": "grigoriev-inostranec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619370613652:android:ead6e4fdeabd438dbe9d81",
+        "android_client_info": {
+          "package_name": "com.example.grigorievinostranec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619370613652-l1eun5nn88ki332mcg94arj29oaocod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGlbOoVNGRTZI8-DMD8V8TwO5Ogn82_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619370613652-l1eun5nn88ki332mcg94arj29oaocod2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
